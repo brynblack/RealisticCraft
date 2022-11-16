@@ -1,0 +1,14 @@
+name = "EnvironmentZ"
+filename = "environmentz-1.2.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4e324ac787ea51598fb9c8795b9e8f839d746ef1"
+
+[update]
+[update.curseforge]
+file-id = 3831081
+project-id = 410224

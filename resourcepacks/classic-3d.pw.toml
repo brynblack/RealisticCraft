@@ -1,0 +1,13 @@
+name = "Classic 3D (16x)"
+filename = "§6§lClassic+3D+v15.1+-+1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5E82FA8AC313270A005FDABD55D099F191518B42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3898577
+project-id = 336686

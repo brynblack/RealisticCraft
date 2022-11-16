@@ -1,0 +1,14 @@
+name = "Break Free"
+filename = "breakfree-1.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Xlr5lMDF/versions/1.1.0/breakfree-1.1.0.jar"
+hash-format = "sha512"
+hash = "3f34db9df1a5eb334cf74860b5fd2a1a599e9a04b5801f9b2ae0d4464e33dbb3cbabed4db25b239944eaf1343f3a64e219599b806696f2e30b29cbf4094f3539"
+
+[update]
+[update.modrinth]
+mod-id = "Xlr5lMDF"
+version = "vlz22F7z"

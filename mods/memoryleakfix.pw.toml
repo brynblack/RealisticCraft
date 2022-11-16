@@ -1,0 +1,14 @@
+name = "Memory Leak Fix"
+filename = "memoryleakfix-1.19-0.7.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0-1.19/memoryleakfix-1.19-0.7.0.jar"
+hash-format = "sha512"
+hash = "bf210453695772e9fd61c5d15c45aeffd32dfc58d83f02810a7137ab64734d43340e29f1cd493437c1f9f264b6b54f335efce9b8f41172896b9fe0871ee3fc3d"
+
+[update]
+[update.modrinth]
+mod-id = "NRjRiSSD"
+version = "f12YQRLF"

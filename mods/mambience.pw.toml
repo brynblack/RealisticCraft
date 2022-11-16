@@ -1,0 +1,14 @@
+name = "MAmbience"
+filename = "Mambience-5.2.0+1.19.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "00419dff011b58eacca16b54d6d3b1efec917aaa"
+
+[update]
+[update.curseforge]
+file-id = 3821380
+project-id = 317590

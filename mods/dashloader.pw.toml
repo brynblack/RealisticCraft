@@ -1,0 +1,14 @@
+name = "DashLoader"
+filename = "dashloader-4.1.3+1.19.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/DsPMHgmj/dashloader-4.1.3%2B1.19.jar"
+hash-format = "sha512"
+hash = "2acb4a800921fec8bebd809bbf257795a713a6e30b11832da58ccfb7d64788ea4326a4e7adc2302bf44cfdb5eb17dcd03f7f7089093c55602cf87431a2ff6859"
+
+[update]
+[update.modrinth]
+mod-id = "ZfQ3kTvR"
+version = "DsPMHgmj"

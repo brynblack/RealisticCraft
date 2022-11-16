@@ -1,0 +1,14 @@
+name = "Charmonium"
+filename = "charmonium-fabric-1.19-4.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/bpii4Xsa/versions/4.1.0%2B1.19/charmonium-fabric-1.19-4.1.0.jar"
+hash-format = "sha512"
+hash = "2274e1d1a488ca79ea3e38f5675594a361f6ec6a1e33ef633674ae1eb5ecc78c90f1a2895fd2b0bba2744fbc99873c3c54f9addf5768f56f5fcecb540706e76c"
+
+[update]
+[update.modrinth]
+mod-id = "bpii4Xsa"
+version = "5R346bKJ"

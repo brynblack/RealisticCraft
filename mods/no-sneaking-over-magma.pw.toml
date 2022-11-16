@@ -1,0 +1,14 @@
+name = "No Sneaking Over Magma!"
+filename = "no-sneaking-over-magma-1.0.16+MC1.19-1.19.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/cqDlVM1w/versions/1.0.16%2BMC1.19-1.19.2/no-sneaking-over-magma-1.0.16%2BMC1.19-1.19.2.jar"
+hash-format = "sha512"
+hash = "5ddd141391fbae311db3e0663f9bbb8ff16e1b97d555bc61bb974a1407350af5fe3655668b7de8137199b4009fceae74216a8fd9c75ca6bccaff80fa6e6d8cb9"
+
+[update]
+[update.modrinth]
+mod-id = "cqDlVM1w"
+version = "2yDAUiDl"

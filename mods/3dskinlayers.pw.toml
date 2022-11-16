@@ -1,0 +1,14 @@
+name = "3d Skin Layers"
+filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
+hash-format = "sha512"
+hash = "617c1456ab7235afabe06bc10d4ddbee6ff53f804d9da9415d39b74f214bf903665a37edaedd53d21f4182a30ab72c85c8a4c1b4a380f589e8f5b268c9229bf4"
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "JHapWF9O"

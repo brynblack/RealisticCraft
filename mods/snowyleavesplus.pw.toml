@@ -1,0 +1,14 @@
+name = "SnowyLeavesPlus"
+filename = "snowyleavesplus-0.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/of7wIinq/versions/0.1.2/snowyleavesplus-0.1.2.jar"
+hash-format = "sha512"
+hash = "dbafb38d525775c7fe395edd4acb6925808fd9ca75a75f429cde1ea78251722b01b3f07989f487f9464e6288c6aa2aed74187601d11b739535dad90a97e33527"
+
+[update]
+[update.modrinth]
+mod-id = "of7wIinq"
+version = "lA8feVpp"

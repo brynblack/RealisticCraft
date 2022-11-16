@@ -1,0 +1,14 @@
+name = "EarlyGame"
+filename = "earlygame-1.19-1.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/RtCF483L/versions/1.19-1.1.2/earlygame-1.19-1.1.2.jar"
+hash-format = "sha512"
+hash = "f0c2e235d38875245641f58a5d9026503be20c6a0efa54324910f15f98185cfc59ce911aa78c1fd8cf36fca75022db391acd2c7d412bb53a6d218a94e78009f7"
+
+[update]
+[update.modrinth]
+mod-id = "RtCF483L"
+version = "LrShJrDu"
