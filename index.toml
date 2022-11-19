@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.md"
+hash = "f53c7654ecff1bb5b13350c85b372ec9b6e41bfc783a12fc69e8334ea7e02170"
+
+[[files]]
+file = "README.md"
+hash = "347b26dc36036dceb98d529229ece4a8d0273706fa588fbaaf9a3f1d278756a7"
+
+[[files]]
+file = "config/bettercombat/client.json5"
+hash = "6832bb19e811f79fb476803b561e7beed7ea4c3e4ec873557788b04ce27c2bee"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "8e27eebabd54f29d7dfa5a3fb961ab9dffda4325c4280f420408aa0604deeac7"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "b4bfc07134bb4e9d2d7bebfb1ee68414f92cc354ff01cb2f6ee2289809ade586"
+
+[[files]]
 file = "config/dehydration.json5"
 hash = "3a8b3ad21dc0f20dc8ef6b102fb6a02ff51f221d993191348a59238e3c45c260"
 
