@@ -6,7 +6,7 @@ hash = "22734705f94689682cefafa0b3d1ebd6251dc1269763df76da88c31b228a5a9e"
 
 [[files]]
 file = "README.md"
-hash = "604aad269d33c03608e3c74fa1a94bfe8d5c8ac2a9d4aa24a24d36b87bcc9215"
+hash = "55a3e1d734fede6b1b6ca755a66c84940957dd71c166e21d6e44f9fc24d3350f"
 
 [[files]]
 file = "config/bettercombat/client.json5"
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamiccrosshair.pw.toml"
-hash = "d55c08b3a5dd4887b54291672406bb2849699d663dd0e3339b4868a53dba5349"
+hash = "2e393e75f549658ab35f9bb4ba14a820c2fc3f217088a83636b281be08116ced"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
 metafile = true
 
 [[files]]
