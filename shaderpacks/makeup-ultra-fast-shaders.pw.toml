@@ -1,0 +1,13 @@
+name = "MakeUp - Ultra Fast"
+filename = "MakeUp-UltraFast-8.9a.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/izsIPI7a/versions/nsJKZvEg/MakeUp-UltraFast-8.9a.zip"
+hash-format = "sha1"
+hash = "09991fb9520026c8eb4f26e30a3f7bdc8472a015"
+
+[update]
+[update.modrinth]
+mod-id = "izsIPI7a"
+version = "nsJKZvEg"

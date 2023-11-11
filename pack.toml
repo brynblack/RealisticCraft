@@ -1,13 +1,13 @@
 name = "RealisticCraft"
 author = "Brynley Llewellyn-Roux"
-version = "1.0.4"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "198770403c76af6ac02d7cc8cf77a4cf1df40acfa540b1dc38b6fca6d247d67b"
+hash = "e19dac81e35842e3bed9903be1331dbf2192b24bce0c7cb02a8d4b2ea9f5947f"
 
 [versions]
-fabric = "0.14.10"
+fabric = "0.14.24"
 minecraft = "1.19"

@@ -1,14 +1,13 @@
 name = "Ice Boat Nerf"
-filename = "ice-boat-nerf-1.0.13+MC1.18-1.19.2.jar"
+filename = "ice-boat-nerf-1.0.16+MC1.18-1.20.2.jar"
 side = "both"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/Udjno5eL/versions/1.0.13%2BMC1.18-1.19.2/ice-boat-nerf-1.0.13%2BMC1.18-1.19.2.jar"
-hash-format = "sha512"
-hash = "1cfe59aadfbf38629fd1c0dbd65173a730ab087bebd8e3bbbb2277a52b4010a840cad136eee76514f5ea81a858e84b735b508161314c7bebdd9b56761cbe5298"
+url = "https://cdn.modrinth.com/data/Udjno5eL/versions/4VgCKuIa/ice-boat-nerf-1.0.16%2BMC1.18-1.20.2.jar"
+hash-format = "sha1"
+hash = "de1cd694a1586a252ee643ad553f32a6542af730"
 
 [update]
 [update.modrinth]
 mod-id = "Udjno5eL"
-version = "4OglKzuJ"
+version = "4VgCKuIa"

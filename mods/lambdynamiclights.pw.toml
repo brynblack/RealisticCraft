@@ -1,12 +1,12 @@
 name = "LambDynamicLights"
 filename = "lambdynamiclights-2.1.2+1.19.jar"
-side = "both"
+side = "client"
+pin = true
 
 [download]
-mode = "url"
 url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.2%2B1.19/lambdynamiclights-2.1.2%2B1.19.jar"
-hash-format = "sha512"
-hash = "47cbc713317c88d6165d125d3802e13c9fd851fddc4ffeb03be4b67ac06bc15d5306d9e9c23e0552ba1e6fcfb10de010ffd2cd84af06cd281709a42d09c09b8c"
+hash-format = "sha1"
+hash = "0f2b1a29beb9521e11046f76674d78ddc86e1371"
 
 [update]
 [update.modrinth]

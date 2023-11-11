@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","Fabric Mods","charmonium/journeyman","file/Â§6Â§lClassic 3D v15.1 - 1.19.zip"]
+resourcePacks:["vanilla","Fabric Mods","charmonium/journeyman","file/§6§lClassic+3D+v15.1+-+1.19.zip","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

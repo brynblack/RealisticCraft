@@ -1,12 +1,11 @@
 name = "No Nametag Render"
 filename = "nonametag-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
-mode = "url"
-url = "https://cdn.modrinth.com/data/GLspMh4E/versions/1.0.0-1.19/nonametag-1.0.0.jar"
-hash-format = "sha512"
-hash = "4b51fcc8392b1fc655afc307927277ea9e3a5ec59b772e8bc11bc1592e53afcda8f0ecc54a35fd7d52ddc27a3509b3928e47995883e88324634b30118ff57177"
+url = "https://cdn.modrinth.com/data/GLspMh4E/versions/dmceujYq/nonametag-1.0.0.jar"
+hash-format = "sha1"
+hash = "1c2bf183bf199f8d02f5f7d00b2c0854ac729286"
 
 [update]
 [update.modrinth]
