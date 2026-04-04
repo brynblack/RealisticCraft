@@ -26,11 +26,12 @@ If you enjoyed the modpack, you should go and check out these cool projects that
 - [Cloth Config v20](https://modrinth.com/mod/9s6osm5g) by shedaniel
 - [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) by RelativityMC, ishland
 - [CreativeCore](https://modrinth.com/mod/OsZiaDHq) by CreativeMD, AriaFreeze
-- [Distant Horizons](https://modrinth.com/mod/uCdwusMi) by James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh
+- [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
 - [Dynamic Crosshair](https://modrinth.com/mod/ZcR9weSm) by Crendgrim
 - [EntityCulling](https://modrinth.com/mod/NNAgCjsB) by tr7zw
 - [Fabric API](https://modrinth.com/mod/P7dR8mSH) by FabricMC
 - [FallingTree](https://modrinth.com/mod/Fb4jn8m6) by Rakambda
+- [Fast Noise](https://modrinth.com/mod/OnlVIpq5) by ZenXArch
 - [FerriteCore](https://modrinth.com/mod/uXXizFIs) by malte0811
 - [FirstPerson](https://modrinth.com/mod/H5XMjpHi) by tr7zw
 - [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) by Fuzs
@@ -45,24 +46,22 @@ If you enjoyed the modpack, you should go and check out these cool projects that
 - [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
 - [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) by Aizistral
 - [No Sneaking Over Magma\!](https://modrinth.com/mod/cqDlVM1w) by supersaiyansubtlety
-- [Noisium](https://modrinth.com/mod/hasdd01q) by coredex\-source, Steveplays28
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [Physics Mod](https://modrinth.com/mod/Xy8aRQKS) by Haubna
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox
 - [Player Animation Library](https://modrinth.com/mod/ha1mEyJS) by Zigy, dima\_dencep
 - [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) by Hurricaaane \(Ha3\), Sollace
-- [Primity](https://modrinth.com/mod/5D3aYhtU) by VinnyStalck
 - [Raised](https://modrinth.com/mod/nCQRBEiR) by yurisuika
 - [SereneSeasons](https://modrinth.com/mod/e0bNACJD) by Adubbz, Forstride
 - [Shoulder Surfing Reloaded](https://modrinth.com/mod/kepjj2sy) by Exopandora
 - [Sodium](https://modrinth.com/mod/AANobbMI) by JellySquid \(jellysquid3\)
 - [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by Sonic Ether, vlad2305m, Max Henkel, Saint
 - [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11 \(mineblock11\)
+- [SurvivalistEssentials](https://modrinth.com/mod/hFW7KOhm) by wendall911
 - [Tectonic](https://modrinth.com/mod/lWDHr9jE) by Apollo
-- [Terralith](https://modrinth.com/mod/8oi3bsk5) by Stardust Labs
+- [Terralith](https://modrinth.com/mod/8oi3bsk5) by Starmute, catter1, Apollo, TheKingWhale
 - [ToughAsNails](https://modrinth.com/mod/ge1sOdFH) by Adubbz, Forstride
 - [Very Many Players](https://modrinth.com/mod/wnEe9KBa) by ishland
 - [Visuality](https://modrinth.com/mod/rI0hvYcd) by PinkGoosik
 - [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J) by Sunekaer
 - [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) by isXander
-- [oωo](https://modrinth.com/mod/ccKDOlHs) by glisco
